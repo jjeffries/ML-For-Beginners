@@ -361,3 +361,6 @@ MigrationBackup/
 .Rhistory
 ML-For-Beginners.Rproj
 
+# venv
+ML-FOR-BEGINNERS_VENV
+ML-FOR-BEGINNERS_VENV/*
